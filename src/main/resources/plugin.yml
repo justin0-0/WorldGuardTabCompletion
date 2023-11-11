@@ -1,0 +1,5 @@
+name: WorldGuardTabCompletion
+version: '1.0'
+main: de.justin.worldguardtabcompletion.WorldGuardTabCompletion
+api-version: '1.20'
+depend: [WorldGuard]
